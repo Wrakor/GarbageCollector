@@ -1,0 +1,31 @@
+#R-estrada dois sentidos
+#r-estrada um sentido
+#--muro
+#P-papel
+#E-embalagens
+#V-vidro
+#I-indiferenciado
+
+------------------------------------
+DRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR-
+-R--------------R--R--------------R-
+-RRRRRR--------VR--RRRRRR--------VR-
+-R----R---------R--R----R---------R-
+-R----R-I-------R--R----R-I-------R-
+-R----RRRRR-----R--R----RRRRR-----R-
+PR--------R----PR-PR--------R----PR-
+ER--------R-----R-ER--------R-----R-
+-R--------R--E--R--R--------R--E--R-
+-RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR-
+--------R-----------------R-------R-
+RRRRRRRRRRRRRRRRR-RRRRRRRRRRRRRRRRR-
+-R--------------R--R--------------R-
+-RRRRRR--------VR--RRRRRR--------VR-
+-R----R---------R--R----R---------R-
+-R----R-I-------R--R----R-I-------R-
+-R----RRRRR-----R--R----RRRRR-----R-
+PR--------R----PR-PR--------R----PR-
+ER--------R-----R-ER--------R-----R-
+-R--------R--E--R--R--------R--E--R-
+-RRRRRRRRRRRRRRRR--RRRRRRRRRRRRRRRRD
+------------------------------------
